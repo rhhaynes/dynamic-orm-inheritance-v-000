@@ -1,4 +1,4 @@
-require_relative "./interactive_record.rb"
+# require_relative "./interactive_record.rb"
 
 class Song < InteractiveRecord
 
@@ -7,3 +7,5 @@ class Song < InteractiveRecord
   end
 
 end
+
+require_relative "./interactive_record.rb"
